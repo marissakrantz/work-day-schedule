@@ -8,7 +8,7 @@
 
 ## Example
 
->![Photograph of deployed application:](.demo.png)
+>![Photograph of deployed application:](/demo.png)
 
 ## Functionality Of Scheduler
 
