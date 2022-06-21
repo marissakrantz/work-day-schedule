@@ -21,7 +21,7 @@
 
 ## Installation
 
-> This website doesnt require installation of any programs or software. It can be viewed on any web browser. It is now live at the following URL . 
+> This website doesnt require installation of any programs or software. It can be viewed on any web browser. It is now live at the following URL https://marissakrantz.github.io/work-day-schedule/. 
 
 ## Built With
 
