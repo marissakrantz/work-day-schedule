@@ -10,7 +10,7 @@
 
 >The following photograph shows the application:
 
-><img src="/.demo.png">
+><img src=".demo.png">
 
 ## Functionality Of Scheduler
 
